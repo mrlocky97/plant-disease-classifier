@@ -1,0 +1,20 @@
+# Dataset (demasiado grande para git)
+plantvillage dataset/
+plantvillage-dataset.zip
+
+# Modelos entrenados
+*.pt
+*.pth
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.env/

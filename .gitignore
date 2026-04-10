@@ -1,5 +1,6 @@
 # Dataset (demasiado grande para git)
 plantvillage dataset/
+plantvillage dataset/color/
 plantvillage-dataset.zip
 
 # Modelos entrenados
